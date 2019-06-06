@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Обо мне
-permalink: /about/
+permalink: /About/
 ---
 
 Делаю блог для Лабораторной Работы по Веб Программировании.
