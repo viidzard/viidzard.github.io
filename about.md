@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-Some information about you!
+Делаю блог для Лабораторной Работы по Веб Программировании.
 
-### More Information
+### Больше информации
 
-A place to include any other types of information that you'd like to include about yourself.
+Здесь можно добавить побольше информации.
 
-### Contact me
+### Связь со мной
 
-[email@domain.com](mailto:email@domain.com)
+[viidzard@gmail.com](mailto:email@domain.com)
