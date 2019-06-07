@@ -2,10 +2,23 @@
 layout: post
 title: ТОП 5 ФОТОК ЛЕБЕДЕЙ!
 ---
-
-
-
 Представляю вам:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1:
 ![_config.yml]({{ site.baseurl }}/images/Swan1.jpg)
 2:
